@@ -1,6 +1,8 @@
 hey everyone!
 
 
+This is a sentence
+
 <<<<<<< HEAD
 I changed this one
 =======

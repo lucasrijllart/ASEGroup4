@@ -1,0 +1,4 @@
+prog read X {
+	Y := X
+}
+write Y

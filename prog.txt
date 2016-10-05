@@ -1,4 +1,5 @@
 prog read X {
 	Y := X
+	STAN EDITED THIS FILE
 }
 write Y
